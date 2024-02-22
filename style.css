@@ -1,0 +1,12 @@
+#container{
+border: dotted 1px; color: black;
+
+
+
+}
+#group{
+    border: solid 1px blue;
+    margin: 5%;
+    padding: 20px; 
+
+}
